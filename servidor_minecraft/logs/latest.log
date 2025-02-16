@@ -278,3 +278,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Feb2025 22:01:12.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: federico0099 has made the advancement [Monster Hunter]
 [16Feb2025 22:01:18.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: federico0099 was slain by Zombie
 [16Feb2025 22:07:49.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: federico0099 was slain by Zombie
+[16Feb2025 22:09:29.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: federico0099 was shot by Skeleton
+[16Feb2025 22:09:35.190] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@19475524
+[16Feb2025 22:09:35.205] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MARCROK_PRO_2009[/100.110.224.116:49870] logged in with entity id 1124 at (-143.96715215176695, 62.0, 255.18470574528925)
+[16Feb2025 22:09:35.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MARCROK_PRO_2009 joined the game
+[16Feb2025 22:09:59.773] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MARCROK_PRO_2009 lost connection: Disconnected
+[16Feb2025 22:09:59.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MARCROK_PRO_2009 left the game
+[16Feb2025 22:12:46.789] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2c9514e9
+[16Feb2025 22:12:46.801] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MARCROK_PRO_2009[/100.110.224.116:49932] logged in with entity id 1550 at (-143.96715215176695, 62.0, 255.18470574528925)
+[16Feb2025 22:12:46.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MARCROK_PRO_2009 joined the game
+[16Feb2025 22:13:09.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: federico0099 has made the advancement [Stone Age]
+[16Feb2025 22:13:15.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MARCROK_PRO_2009> -143 62 247
+[16Feb2025 22:14:08.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: federico0099 has made the advancement [Getting an Upgrade]
+[16Feb2025 22:16:54.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: federico0099 has made the advancement [Suit Up]
