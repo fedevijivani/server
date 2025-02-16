@@ -291,3 +291,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Feb2025 22:13:15.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MARCROK_PRO_2009> -143 62 247
 [16Feb2025 22:14:08.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: federico0099 has made the advancement [Getting an Upgrade]
 [16Feb2025 22:16:54.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: federico0099 has made the advancement [Suit Up]
+[16Feb2025 22:20:24.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: federico0099 has made the advancement [Sweet Dreams]
+[16Feb2025 22:22:40.521] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MARCROK_PRO_2009 lost connection: Disconnected
+[16Feb2025 22:22:40.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MARCROK_PRO_2009 left the game
+[16Feb2025 22:28:09.628] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@27490971
+[16Feb2025 22:28:09.637] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MARCROK_PRO_2009[/100.110.224.116:50100] logged in with entity id 3630 at (-141.08700864582255, 62.0, 269.45360942302653)
+[16Feb2025 22:28:09.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MARCROK_PRO_2009 joined the game
