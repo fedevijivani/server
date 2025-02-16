@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "cf9d0d5e-923c-3f22-a778-04284b9d0813",
+    "name": "MARCROK_PRO_2009",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

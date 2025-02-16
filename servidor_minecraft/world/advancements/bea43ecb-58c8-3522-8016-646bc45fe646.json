@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-16 22:41:48 +0000"
+    },
+    "done": true
+  },
   "divinerpg:overworld/patchouli": {
     "criteria": {
       "tick": "2025-02-16 22:00:21 +0000"
@@ -338,6 +344,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-02-16 22:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-16 22:41:48 +0000"
     },
     "done": true
   },
@@ -522,6 +534,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-16 22:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-16 22:41:48 +0000"
     },
     "done": true
   },
